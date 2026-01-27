@@ -3,3 +3,4 @@ Rails.application.routes.draw do
   get "add" => "additions#create"
 
 end
+ 
